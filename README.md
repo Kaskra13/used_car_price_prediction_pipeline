@@ -61,8 +61,8 @@ Features:
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/Kaskra13/used_car_price_prediction_pipeline
-cd used-car-price-prediction
+git clone https://github.com/Kaskra13/used_car_price_prediction_pipeline used-car-pipeline
+cd used-car-pipeline
 
 # Install dependencies
 pip install pandas numpy matplotlib scikit-learn xgboost joblib
